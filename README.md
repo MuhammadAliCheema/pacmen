@@ -2,8 +2,8 @@ Here's the rephrased text to avoid plagiarism:
 
 # PacMen Factory Exercise
 
-M.I.T xPRO PacMen Factory Exercise<br>
-PacMen Factory Exercise: 
+M.I.T xPRO PacMen Factory Exercise
+PacMen Factory Exercise: [link](https://github.com/MuhammadAliCheema/pacmen.git)
 
 ___
 
