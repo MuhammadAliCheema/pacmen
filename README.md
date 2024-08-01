@@ -3,8 +3,8 @@ Here's the rephrased text to avoid plagiarism:
 # PacMen Factory Exercise
 
 M.I.T xPRO PacMen Factory Exercise<br>
-PacMen Factory Exercise: <a href="https://github.com/EliHeuman/PacMen-Factory-Exercise">Repository</a><br>
-PacMen Factory Exercise: <a href="http://eliheuman.github.io/PacMen-Factory-Exercise/">Open</a>
+PacMen Factory Exercise: 
+
 ___
 
 The PacMen Factory Exercise marks the conclusion of the seventh week in the MIT xPRO Full Stack Development with MERN course.
