@@ -28,4 +28,4 @@ Source Code: <a href="https://github.com/EliHeuman/PacMen-Factory-Exercise/blob/
 ##### Support
 If you encounter any issues, please reach out via <a href="mailto:biz.elih@gmail.com">email</a>.
 ___
-
+## License information: MIT license.
